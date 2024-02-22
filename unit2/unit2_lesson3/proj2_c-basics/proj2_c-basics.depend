@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708268997 source:e:\embedded systems\kirloos diploma\kiroles code\unit2_lesson3\proj2_c-basics\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708275385 source:e:\embedded systems\kirloos diploma\kiroles code\unit2_lesson3\proj5_whileloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
